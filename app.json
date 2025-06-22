@@ -2,7 +2,7 @@
     "name": "testbot",
     "description": "TEST-BOT",
     "logo": "https://files.catbox.moe/guw00q.jpg",
-    "repository": "https://github.com/kawaki227/8000",
+    "repository": "https://github.com/kawaki-227/8000",
     "keywords": ["Gifted-Tech"],
     "success_url": "/", 
     "buildpacks": [{ "url": "https://github.com/heroku/heroku-buildpack-nodejs#latest" } ],
